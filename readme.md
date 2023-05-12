@@ -27,7 +27,7 @@ Acknowledgements
 -------------------
 If you use this benchmark please cite the following paper:
 
-- G. Urbizu, I. San Vicente, X. Saralegi, A. Corral. Not Enough Data to Pre-train Your Language Model? MT to the Rescue!. Findings of the Association for Computational Linguistics: ACL 2023. July, 2023. Toronto, Canada
+- G. Urbizu, I. San Vicente, X. Saralegi, A. Corral. Not Enough Data to Pre-train Your Language Model? MT to the Rescue! Findings of the Association for Computational Linguistics: ACL 2023. July, 2023. Toronto, Canada
 
 
 

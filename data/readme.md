@@ -14,4 +14,4 @@ mlm evaluation dataset:
 * [mlm_test]()
 
 Downstream task evaluation benchmark:
-[* [BasqueGLUE](https://huggingface.co/datasets/orai-nlp/basqueGLUE)
+* [BasqueGLUE](https://huggingface.co/datasets/orai-nlp/basqueGLUE)

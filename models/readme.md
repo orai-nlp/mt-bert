@@ -2,7 +2,7 @@
 
 Models from our work Not Enough Data to Pre-train Your Language Model? MT to the Rescue! accepted at ACL2023 Findings.
 
-Models
+Models:
 * [ElhBERTeu](https://storage.googleapis.com/elhuyar/mtbert/models/ElhBERTeu.tar.gz) (or [HF🤗](https://huggingface.co/orai-nlp/ElhBERTeu))
 * [BERT_125M](https://storage.googleapis.com/elhuyar/mtbert/models/bert_125M.tar.gz)
 * [S_BERT](https://storage.googleapis.com/elhuyar/mtbert/models/S_BERT.tar.gz)

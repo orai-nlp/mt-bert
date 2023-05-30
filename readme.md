@@ -23,7 +23,7 @@ International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [
 
 Acknowledgements
 -------------------
-If you use this models or datasets please cite the following paper:
+If you use any of these models or datasets please cite the following paper:
 
 - G. Urbizu, I. San Vicente, X. Saralegi, A. Corral. Not Enough Data to Pre-train Your Language Model? MT to the Rescue! Findings of the Association for Computational Linguistics: ACL 2023. July, 2023. Toronto, Canada
 

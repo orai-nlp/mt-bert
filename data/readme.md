@@ -11,7 +11,7 @@ Pretraining corpora employed in this work:
 * [paralES2EU](https://storage.googleapis.com/elhuyar/mtbert/data/paralES2EU.txt.gz)
 
 MLM evaluation dataset:
-* [mlm_test](https://storage.googleapis.com/elhuyar/mtbert/data/mlm_test.txt.gz)
+* [mlm_test](https://storage.googleapis.com/elhuyar/mtbert/data/berria_2021.txt.gz)
 
 Downstream task evaluation benchmark:
 * [BasqueGLUE](https://huggingface.co/datasets/orai-nlp/basqueGLUE)

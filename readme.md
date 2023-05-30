@@ -7,8 +7,6 @@ Authors
 -----------
 Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Ander Corral
 
-Affiliation of the authors: 
-
 Orai NLP Technologies
 
 

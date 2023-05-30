@@ -1,6 +1,6 @@
 # Models
 
-Models from our work Not Enough Data to Pre-train Your Language Model? MT to the Rescue! accepted at ACL2023 Findings.
+Download links for our models from our work Not Enough Data to Pre-train Your Language Model? MT to the Rescue! accepted at ACL2023 Findings.
 
 Models:
 * [ElhBERTeu](https://storage.googleapis.com/elhuyar/mtbert/models/ElhBERTeu.tar.gz) (or [HF🤗](https://huggingface.co/orai-nlp/ElhBERTeu))

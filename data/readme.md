@@ -1,5 +1,7 @@
 # Data
 
+Here you can download the datasets needed to replicate our experiments.
+
 Pretraining corpora employed in this work:
 
 * [N_ElhBERTeu](https://storage.googleapis.com/elhuyar/mtbert/data/ElhBERTeu_shu_probi.txt.gz)

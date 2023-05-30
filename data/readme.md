@@ -2,7 +2,7 @@
 
 Pretraining corpora employed in this work:
 
-* [N_ElhBERTeu](https://storage.googleapis.com/elhuyar/mtbert/data/ElhBERTeu.txt.gz)
+* [N_ElhBERTeu](https://storage.googleapis.com/elhuyar/mtbert/data/ElhBERTeu_shu_probi.txt.gz)
 * [N_small](https://storage.googleapis.com/elhuyar/mtbert/data/eu_125M.txt.gz)
 * [S_beto2eu](https://storage.googleapis.com/elhuyar/mtbert/data/S_beto2eu.txt.gz)
 * [S_loc2eu](https://storage.googleapis.com/elhuyar/mtbert/data/S_loc2eu.txt.gz)

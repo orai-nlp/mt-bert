@@ -1,6 +1,6 @@
 ## Not Enough Data to Pre-train Your Language Model? MT to the Rescue!
 
-Data and models from our work *Not Enough Data to Pre-train Your Language Model? MT to the Rescue!* accepted at ACL2023 Findings.
+Data and models from our work [*Not Enough Data to Pre-train Your Language Model? MT to the Rescue!*](https://aclanthology.org/2023.findings-acl.235.pdf) accepted at ACL2023 Findings.
 
 
 Authors
